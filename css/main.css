@@ -1,0 +1,39 @@
+html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+}
+
+.navbar {
+  position: fixed !important;
+  width: 100%;
+}
+
+.section-main {
+  background: beige;
+  height: 100vh;
+}
+
+.section-about {
+  background: skyblue;
+  height: 100vh;
+
+}
+
+.section-blog {
+  background: pink;
+  height: 100vh;
+
+}
+
+.section-gallery {
+  background: forestgreen;
+  height: 100vh;
+
+}
+
+.section-contact {
+  background: cyan;
+  height: 100vh;
+
+}
